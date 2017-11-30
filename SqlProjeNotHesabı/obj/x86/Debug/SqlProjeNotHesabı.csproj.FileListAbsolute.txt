@@ -1,0 +1,20 @@
+c:\users\hp\documents\visual studio 2010\Projects\SqlProjeNotHesabı\SqlProjeNotHesabı\bin\Debug\SqlProjeNotHesabı.exe
+c:\users\hp\documents\visual studio 2010\Projects\SqlProjeNotHesabı\SqlProjeNotHesabı\bin\Debug\SqlProjeNotHesabı.pdb
+c:\users\hp\documents\visual studio 2010\Projects\SqlProjeNotHesabı\SqlProjeNotHesabı\obj\x86\Debug\SqlProjeNotHesabı.FrmKullanıcıGirisi.resources
+c:\users\hp\documents\visual studio 2010\Projects\SqlProjeNotHesabı\SqlProjeNotHesabı\obj\x86\Debug\SqlProjeNotHesabı.FrmNotHesabı.resources
+c:\users\hp\documents\visual studio 2010\Projects\SqlProjeNotHesabı\SqlProjeNotHesabı\obj\x86\Debug\SqlProjeNotHesabı.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\SqlProjeNotHesabı\SqlProjeNotHesabı\obj\x86\Debug\SqlProjeNotHesabı.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\SqlProjeNotHesabı\SqlProjeNotHesabı\obj\x86\Debug\SqlProjeNotHesabı.exe
+c:\users\hp\documents\visual studio 2010\Projects\SqlProjeNotHesabı\SqlProjeNotHesabı\obj\x86\Debug\SqlProjeNotHesabı.pdb
+C:\Users\HP\documents\visual studio 2010\Projects\SqlProjeNotHesabı\SqlProjeNotHesabı\obj\x86\Debug\SqlProjeNotHesabı.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2010\Projects\SqlProjeNotHesabı\SqlProjeNotHesabı\obj\x86\Debug\SqlProjeNotHesabı.DersSecimi.resources
+C:\Users\Kerim\Desktop\SqlProjeNotHesabı\SqlProjeNotHesabı\bin\Debug\SqlProjeNotHesabı.exe
+C:\Users\Kerim\Desktop\SqlProjeNotHesabı\SqlProjeNotHesabı\bin\Debug\SqlProjeNotHesabı.pdb
+C:\Users\Kerim\Desktop\SqlProjeNotHesabı\SqlProjeNotHesabı\obj\x86\Debug\SqlProjeNotHesabı.csprojResolveAssemblyReference.cache
+C:\Users\Kerim\Desktop\SqlProjeNotHesabı\SqlProjeNotHesabı\obj\x86\Debug\SqlProjeNotHesabı.DersSecimi.resources
+C:\Users\Kerim\Desktop\SqlProjeNotHesabı\SqlProjeNotHesabı\obj\x86\Debug\SqlProjeNotHesabı.FrmKullanıcıGirisi.resources
+C:\Users\Kerim\Desktop\SqlProjeNotHesabı\SqlProjeNotHesabı\obj\x86\Debug\SqlProjeNotHesabı.FrmNotHesabı.resources
+C:\Users\Kerim\Desktop\SqlProjeNotHesabı\SqlProjeNotHesabı\obj\x86\Debug\SqlProjeNotHesabı.Properties.Resources.resources
+C:\Users\Kerim\Desktop\SqlProjeNotHesabı\SqlProjeNotHesabı\obj\x86\Debug\SqlProjeNotHesabı.csproj.GenerateResource.Cache
+C:\Users\Kerim\Desktop\SqlProjeNotHesabı\SqlProjeNotHesabı\obj\x86\Debug\SqlProjeNotHesabı.exe
+C:\Users\Kerim\Desktop\SqlProjeNotHesabı\SqlProjeNotHesabı\obj\x86\Debug\SqlProjeNotHesabı.pdb
